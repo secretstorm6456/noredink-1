@@ -39,7 +39,7 @@ window.onload = function() {
       title_inner_container.setAttribute('id', 'title_inner_container')
       var title = document.createElement('h1')
       title.setAttribute('id', 'title')
-      title.textContent = '#chat69'
+      title.textContent = '#chat69/ private server = 10$'
 
       title_inner_container.append(title)
       title_container.append(title_inner_container)
